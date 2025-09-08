@@ -11,13 +11,15 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("lab1")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("WpfLibrary1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f5bc6f0e9f6fc5072776ad8f692d54ff7dce14d")]
-[assembly: System.Reflection.AssemblyProductAttribute("lab1")]
-[assembly: System.Reflection.AssemblyTitleAttribute("lab1")]
+[assembly: System.Reflection.AssemblyProductAttribute("WpfLibrary1")]
+[assembly: System.Reflection.AssemblyTitleAttribute("WpfLibrary1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+[assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
+[assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
 
